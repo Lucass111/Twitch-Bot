@@ -1,0 +1,17 @@
+{
+  "bot_config": {
+      "server_id": 1152400614760919231,
+      "prefix": ".",
+      "token": "MTE2MjIzOTcxODc2MzgxMDg1OA.Gz_oNh.ASuU1SvTN8EZqMIyK2H76U8rHlyqXGbwfc9mhc",
+      "channel": 1152404338564661379
+
+  },
+  "tfollow": {
+    "patricks little kids": 25,
+    "🥉Bronze🥉 [50]": 50,
+    "🥈Silver🥈 [100]": 100,
+    "🏅Gold🏅 [250]": 250,
+    "💎Platinum💎 [500]": 500,
+    "🥶Ultimate🥶 [1k]": 1000
+  }
+} 
